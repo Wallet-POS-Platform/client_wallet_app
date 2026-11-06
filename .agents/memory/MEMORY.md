@@ -1,0 +1,1 @@
+- [Student Wallet preview scope](student-wallet-scope.md) — Replit previews the Figma-based app; ChatGPT is not an in-app feature or connected coding service.
